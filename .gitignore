@@ -2,3 +2,4 @@
 .ipynb_checkpoints
 deep-learning/MNIST-GAN/train_samples.pkl
 deep-learning/MNIST-GAN/data
+venv/**
