@@ -47,7 +47,7 @@ jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==6.1.12
 jupyter-console==6.4.0
-jupyter-core==4.7.1
+jupyter-core>=4.11.2
 jupyter-dash==0.4.2
 jupyter-server==1.21.0
 jupyterlab==3.5.0
